@@ -1,0 +1,1 @@
+This is the R code behind Intrepid Insight's City-to-City Median Home Values Impact Modeler. The ui.R and server.R underlie the Shiny app, and the loop_var_model.R runs all of the VAR models and impulse response functions.
